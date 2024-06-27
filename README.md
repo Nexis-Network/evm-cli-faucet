@@ -1,6 +1,6 @@
 # Nexis EVM Faucet Server
 
-This is a simple HTTP server for rate-limited Ethereum faucet requests. It validates Ethereum addresses and runs a specified command to transfer tokens to the provided address.
+This is a simple HTTP server for rate-limited Nexis faucet requests. It validates Ethereum addresses and runs a specified command to transfer tokens to the provided address.
 
 ## Features
 
